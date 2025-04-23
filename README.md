@@ -15,7 +15,7 @@ Tela de Login desenvolvida com HTML e CSS, contendo a função de o usuário ins
 
 ![image](https://github.com/user-attachments/assets/b76204ac-e5ec-4c09-84a3-828cb5fb53c4)
 
-- Efeitos utilizando hover
+- Efeitos utilizando hover (mouse posicionado em cima do botão de login)
 
 ![image](https://github.com/user-attachments/assets/4101eb86-cfbf-46c1-ac42-2b1f46fc4589)
 
